@@ -1,0 +1,2 @@
+"_id.buffer","applyFor","fullName","email","whatsappNumber","gender","instituteName","fieldOfStudy","yearOfStudy","region","facebookLink","instagramLink","linkedinLink","previousExperiences","bestSkills.0","bestSkills.1","__v"
+"{""type"":""Buffer"",""data"":[102,119,163,137,89,112,237,17,73,127,228,21]}","Director","John Doe","john.doe@example.com","1234567890","Male","Example University","Computer Science","2024","North","https://facebook.com/johndoe","https://instagram.com/johndoe","https://linkedin.com/in/johndoe","Worked on AI projects","Leadership","Teamwork",0
